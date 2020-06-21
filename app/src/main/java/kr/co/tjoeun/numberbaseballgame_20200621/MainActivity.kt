@@ -90,6 +90,7 @@ class MainActivity : BaseActivity() {
 
     override fun setValues() {
 
+//        문제만들기
         makeQuestionNum()
 
         for (num in cpuNumList) {
